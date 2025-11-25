@@ -1,0 +1,5 @@
+Stock,Quantity,Unit Price,Total Value
+AMZN,4,130,520
+AAPL,3,180,540
+
+Total Investment,1060
